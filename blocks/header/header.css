@@ -5,6 +5,5 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 0 48px;
-  border: 1px solid red;
+  margin: 0 48px 56px;
 }
