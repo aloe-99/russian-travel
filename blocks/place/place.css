@@ -4,7 +4,6 @@
   grid-template-columns: 460px 484px;
   grid-template-areas: 
     "title website"
-    "image text"
     "image text";
   gap: 48px 40px;
 }
