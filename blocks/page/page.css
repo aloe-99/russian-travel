@@ -5,8 +5,8 @@
   flex-direction: column;
   align-items: center;
   margin: 0 auto;
-  padding: 28px 0 24px;
   color: #fff;
   background-color: #2a2c2f;
   font-family: 'Inter', sans-serif;
+  box-sizing: border-box;
 }

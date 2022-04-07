@@ -1,5 +1,4 @@
-.lead__image {
-  margin: 0;
+.place__image {
   object-fit: fill;
   width: 100%;
 }

@@ -6,3 +6,17 @@
   align-self: flex-start;
   margin: 8px 0 0;
 }
+
+@media screen and (max-width: 900px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .lead__caption {
+    margin-left: 16px;
+    font-size: 10px;
+    line-height: 1.4;
+  }
+}
